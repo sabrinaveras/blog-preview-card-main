@@ -9,7 +9,6 @@ export const CardBorder = ({children}: CardBorderProps) => {
 }
 
 const CardBorderWrapper = styled.div`
-    padding: 1rem;
     border-radius: 1rem;
 
     border: 1px solid hsl(0, 0%, 7%);

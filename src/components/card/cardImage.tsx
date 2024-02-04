@@ -12,6 +12,5 @@ const CardImageWrapper = styled.img`
     vertical-align: middle;
     border-radius: 1rem;
 
-    width: 336px;
-    height: 201px;
+    max-width: 336px;
 `;
